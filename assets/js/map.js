@@ -3,8 +3,8 @@ jQuery(document).ready(function($) {
 
 'use strict';
 	//set your google maps parameters
-	var $latitude = 3.440471,
-		$longitude = -76.523778,
+	var $latitude = 3.4405374,
+		$longitude = -76.5259557,
 		$map_zoom = 14;
 
 	//google map custom marker icon - .png fallback for IE11
